@@ -1,11 +1,5 @@
-# Compare and contrast common threat actors and motivation
-## Contrast
-###  threat Actors
+# Threat Actors- Nation State, Unskilled attacker, Hacktivist, Insider threat, Organized crime, Shadow IT
 * Responsible for the impact of the safety of others
-### motivation 
-* there are many types of motivation: blackmail
-* revenge
-* war
-* financial gain
+# Motivation- Data exfiltration, Espionage, Service disruption, Blackmail, Financial gain, Philosophical/political beliefs, Ethical, Revenge, Disruption/chaos, War
 ## compare 
 * 
